@@ -1,17 +1,13 @@
-
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KyungMin%20GitHub&fontSize=90" />
+</div>
 
+<h1 align="center">Hi 👋, I'm Parkyungmin</h1>
+<h3 align="center">끈임없이 노력하는 개발자 박경민입니다.</h3>
 
-# 안녕하세요, 환영합니다-!
-___
-##### 저는 **병원IT 개발자**입니다. 
-##### DELPHI, JAVA, TIBERO를 사용중입니다.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<a href="①버튼을 눌렀을 때 이동할 링크" target="_blank">
-<img src="https://img.shields.io/badge/②뱃지레이블-③배경색?style=④뱃지모양&logo=⑤로고&logoColor=로고색상"/></a>
-
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
-
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
