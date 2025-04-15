@@ -1,9 +1,7 @@
-<!-- <div align="center"> 
+<div align="center"> 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KyungMin%20GitHub&fontSize=90" />
 </div>
--->
 
-![header](https://capsule-render.vercel.app/api?type=blur)
 
 <h1 align="center">Hi 👋, I'm Parkyungmin</h1>
 <h3 align="center">끈임없이 노력하는 개발자 박경민입니다.</h3>
