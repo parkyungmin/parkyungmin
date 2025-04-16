@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
 </p>
 
 
@@ -30,7 +32,5 @@
 
 
 ### 🏅 Certifications
-- 🖥️ 정보처리기사 (Engineer Information Processing)
-- 🖥️ 정보처리산업기사 (Industrial Engineer Information Processing)
-- 🗃️ SQL 개발자(SQLD) 자격증
-
+- 🖥️ 2024.09 정보처리기사 - 한국산업인력공단
+- 🗃️ 2023.04 SQL 개발자(SQLD) - 한국데이터산업진흥원
