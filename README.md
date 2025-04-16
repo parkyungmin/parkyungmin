@@ -44,10 +44,11 @@
 
 ---
 
-### 📫 Contact
+### 🏅 Certifications
 
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn, Blog, or Portfolio: [링크 삽입]
+- 🖥️ 정보처리기사 (Engineer Information Processing)
+- 🖥️ 정보처리산업기사 (Industrial Engineer Information Processing)
+- 🗃️ SQL 개발자(SQLD) 자격증
 
 ---
 
