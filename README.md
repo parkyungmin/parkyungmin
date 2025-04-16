@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">👋 Hi, I'm Park Kyungmin</h1>
-> “현장에서 직접 쓰이는 의료 시스템, 그 안에서 성장하고 싶은 개발자 박경민입니다.”
+<blockquote align="center">“현장에서 실제로 사용되는 의료 시스템을 개발하며, 끊임없이 성장하고자 하는 개발자 박경민입니다.”</blockquote>
 
 ---
 
