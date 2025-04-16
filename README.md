@@ -21,26 +21,6 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
 </p>
 
-### 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <span>Java</span>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/delphi/delphi-original.svg" alt="Delphi XE7" width="40" height="40"/>
-  <span>Delphi XE7</span>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  <span>Oracle</span>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-  <span>Spring</span>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
-  <span>Jenkins</span>
-</p>
-
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parkyungmin&show_icons=true&locale=en" alt="github-stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parkyungmin&show_icons=true&locale=en&layout=compact" alt="top-langs" height="180"/>
-</div>
 
 ### 📊 GitHub Stats
 <div align="center">
