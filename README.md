@@ -5,14 +5,14 @@
 <h1 align="center">👋 Hi, I'm Park Kyungmin</h1>
 <blockquote align="center">“현장에서 실제로 사용되는 의료 시스템을 개발하며, 끊임없이 성장하고자 하는 개발자 박경민입니다.”</blockquote>
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 - 🏥 병원 IT 소프트웨어 개발자로 **진료 파트**를 담당하고 있습니다.  
 - 💼 JAVA, Delphi XE7, Oracle을 주력으로 사용합니다.  
 - 📚 방송통신대학교 컴퓨터과학과 4학년 재학 중입니다.  
 - 💡 병원 프로세스와 의료 시스템 개선에 꾸준히 관심을 가지고 있습니다.  
 
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Delphi%20XE7-EA1F63?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi XE7"/>
@@ -24,13 +24,13 @@
 </p>
 
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parkyungmin&show_icons=true&locale=en" alt="github-stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parkyungmin&show_icons=true&locale=en&layout=compact" alt="top-langs" height="180"/>
 </div>
 
 
-### 🏅 Certifications
+## 🏅 Certifications
 - 🖥️ 2024.09 정보처리기사 - 한국산업인력공단
 - 🗃️ 2023.04 SQL 개발자(SQLD) - 한국데이터산업진흥원
