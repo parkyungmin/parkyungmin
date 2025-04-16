@@ -37,13 +37,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parkyungmin&show_icons=true&locale=en&layout=compact" alt="top-langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parkyungmin&show_icons=true&locale=en" alt="github-stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parkyungmin&show_icons=true&locale=en" alt="github-stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parkyungmin&show_icons=true&locale=en&layout=compact" alt="top-langs" height="180"/>
+</div>
 
 ---
 
