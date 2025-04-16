@@ -25,9 +25,7 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parkyungmin&show_icons=true&locale=en" alt="github-stats" height="180"/>
-  <p>🔍 GitHub 활동 통계</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parkyungmin&show_icons=true&locale=en&layout=compact" alt="top-langs" height="180"/>
-  <p>🌍 가장 많이 사용한 프로그래밍 언어</p>
 </div>
 
 
