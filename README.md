@@ -12,9 +12,6 @@
 - 📚 방송통신대학교 컴퓨터과학과 4학년 재학 중입니다.  
 - 💡 병원 프로세스와 의료 시스템 개선에 꾸준히 관심을 가지고 있습니다.  
 
-## 🔹─────────────────────────────🔹
-
-
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
@@ -32,18 +29,12 @@
   </a>
 </p>
 
-## 🔹─────────────────────────────🔹
-
-
 ### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parkyungmin&show_icons=true&locale=en" alt="github-stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parkyungmin&show_icons=true&locale=en&layout=compact" alt="top-langs" height="180"/>
 </div>
-
-
-## 🔹─────────────────────────────🔹
 
 ### 🏅 Certifications
 
