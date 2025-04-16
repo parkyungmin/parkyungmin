@@ -1,8 +1,8 @@
-<div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=KyungMin%20GitHub&fontSize=70" />
-</div>
+<p align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+Kyungmin's+Github!👋&fontSize=40"/>
+</p>
 
-<h1 align="center">👋 Hi, I'm Park Kyungmin</h1>
+<h1 align="center"> </h1>
 <blockquote align="center">“현장에서 실제로 사용되는 의료 시스템을 개발하며, 끊임없이 성장하고자 하는 개발자 박경민입니다.”</blockquote>
 
 ## 👨‍💻 About Me
