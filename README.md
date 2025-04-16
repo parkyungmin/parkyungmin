@@ -13,11 +13,20 @@
 
 
 ### 🛠️ Tech Stack & Tools
-- ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) **Java**
-- ![Oracle](https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg) **Oracle**
-- ![Delphi](https://raw.githubusercontent.com/devicons/devicon/master/icons/delphi/delphi-original.svg) **Delphi XE7**
-- ![Spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg) **Spring Framework**
-- ![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg) **Jenkins**
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  </a>
+</p>
 
 
 ### 📊 GitHub Stats
