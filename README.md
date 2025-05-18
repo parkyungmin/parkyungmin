@@ -1,13 +1,13 @@
 <p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+Kyungmin's+Github!👋&fontSize=40"/>
 </p>
-<blockquote align="center">“현장에서 실제로 사용되는 의료 시스템(HIS)을 개발하며, 끊임없이 성장하고자 하는 개발자 박경민입니다.”</blockquote>
+<blockquote align="center">“현장과 기술 사이의 연결을 고민하 개발자 박경민입니다.”</blockquote>
 
 ## 👨‍💻 About Me
-- 🏥 병원 IT 소프트웨어 개발자로 **진료 파트**를 담당하고 있습니다.  
-- 💼 JAVA, Delphi XE7, Oracle을 주력으로 사용합니다.  
-- 📚 방송통신대학교 컴퓨터과학과 4학년 재학 중입니다.  
-- 💡 병원 프로세스와 의료 시스템 개선에 꾸준히 관심을 가지고 있습니다.  
+- 🏥 병원 정보시스템(HIS) 분야에서 클라이언트 및 서버 개발을 담당하고 있습니다.
+- 💼 JAVA, Delphi, Oracle을 주력으로 사용합니다.
+- 📚 방송통신대학교 컴퓨터과학과 4학년에 재학 중이며, 실무와 학습을 병행 중입니다.
+- 💡 시스템을 실제로 사용하는 현장 사용자 입장을 고려한 개발에 강점을 가지고 있습니다.
 
 
 ## 🛠️ Tech Stack & Tools
