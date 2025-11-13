@@ -1,7 +1,7 @@
 <p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+Kyungmin's+Github!👋&fontSize=40"/>
 </p>
-<blockquote align="center">“현장과 기술 사이의 연결을 고민하 개발자 박경민입니다.”</blockquote>
+<blockquote align="center">“현장과 기술 사이의 연결을 고민하는 개발자 박경민입니다.”</blockquote>
 
 ## 👨‍💻 About Me
 - 💼 병원 정보시스템(HIS) 분야에서 **클라이언트 및 백엔드 개발**을 담당하고 있습니다.
